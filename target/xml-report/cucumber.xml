@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.837">
+    <testcase classname="US001 avansas search" name="TC01 avansas search testi" time="0.207">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given "avansasUrl"e gidilir.................................................undefined
+And arama alanına “kalem” yazılarak ara butonu tıklanır.....................skipped
+And Kategori listesinden kurşun kalemler kategorisi tıklanır................skipped
+And Sıralama fonksiyonundan ada göre sırala seçilir.........................skipped
+Then Gelen ürün listesinde adında “Bic Evolution” içeren kaç ürün olduğu tespit edilir..skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
